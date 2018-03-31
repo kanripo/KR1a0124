@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 周易象辭
-#+DATE: 2018-03-31 09:02:54.677980
+#+DATE: 2018-03-31 09:02:54.950270
 #+PROPERTY: ID KR1a0124
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 原序
 <pb:KR1a0124_WYG_026-1a>¶
 圖學辨惑原序¶
 易有圖學非古也注疏猶是魏晉唐所定之書絶無言¶
-及於此者有宋圖學三𣲖出自陳圖南以為飬生馭氣¶
+及於此者有宋圖學三派出自陳圖南以為飬生馭氣¶
 之術託諸大易假借其乾坤水火之名自申其説如參¶
 同契悟真篇之類與易之為道截然无所關合儒者得¶
 之始則推墨附儒卒之因假即真奉螟蛉為高曾甘自¶
